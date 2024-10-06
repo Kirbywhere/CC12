@@ -1,0 +1,144 @@
+LEGEND :
+x̂ = x hat
+m = mew
+a = alpha
+c = critical 
+=/ = not equal to
+
+two groups
+- proportions (categorical - quantitative ) }Variables
+- means ( numerical - quantitative )        }variables
+
+comparing means
+- independent
+  - samples that have no direct association
+    example : method 1 - students A
+   	      method 2 - students B
+- paired samples
+  - connected ( 1 sample )
+    example : diet program ( Diet program)
+    - Pre diet weight  }paired
+    - Post diet weight }paired
+
+
+Independent 
+
+Groups    n    X     SD
+
+Cars      40   5.3   2.2
+ 
+Trucks    40   7.1   3.0
+
+Is there a difference between 2 means ?
+90% confidence level (c)
+10% significance level (a)
+
+1.n1 = 40(large) ---}Z test
+  n2 = 40(large) ---}Z test
+
+2. H0 : m1 = m2 (m1- m2 = 0)
+   Ha : m1 =/ m2 (2 tailed test) 
+
+3. seo = √(s1)2 / n1 + (s2)2 / n2 
+       = √(2.2)2 / 40 + (3.0)2 / 40 
+       = 0.5882
+
+
+z = (x̂1 - x̂2) - (m1 -m2) / seo 
+  = ((5.3- 7.1) - 0 / 0.5882
+  = 3.06 ( 
+
+
+4. find the half of the curve = 0.5
+   (half of the curve - z score of 3.06)
+   (0.5 - 0.4985) multiply by 2( why ? because its a 2 tailed test)
+   
+   2(0.5 - 0.4989) = 0.0022 -> pval
+		     0.05 = a
+
+DIAGRAMS AND CALCULATIONS ARE IN MY PHONE
+
+
+
+
+INDEPENDENT
+
+Selling price    Sample Size 	Sample Mean 	Sample SD
+
+Group 		 n		x̂		SD	     (S)2
+
+PHP 15		 10 - BNNQ	171		26	     676
+
+PHP 10		 5 - TURON	198		29	     841
+
+is there a difference between the means ?
+consider : c = 90%
+	   a = 10%
+
+
+1. n1 = 10(not large enough)
+   n2 = 15(not large enough) ----> t test
+
+
+2. H0 : m1 = m2 (m1 - m2 = 0)
+   Ha : m1 =/ m2( 2 tailed)
+
+3. seo = √ (s1) 2 / n + (s2)2 / n
+       = √ (26)2 / 10 + (29)2 / 5
+       = 15.3558
+
+t = (x̂1 - x̂2) - (m1 - m2) / seo
+  = (171 -198) - 0 / 15.3558
+  = - 1.76
+
+SOLUTION IS IN MY PHONE
+
+
+
+PAIRED SAMPLES
+
+n =  sample
+x̂d = difference between n - before and after
+H0 (m1 = m2 (m1 - m2 = 0)
+
+
+EXAMPLE 1
+
+Eight golfers were asked to submit their latest scores on
+their favorite golf courses. These golfers were each given a
+set of newly designed clubs. After playing with the new
+clubs for a few months, the golfers were again asked to
+submit their latest scores on the same golf courses. The
+results are summarized below.
+
+
+1. n = 8 < 30 ( not large enough, t test )
+
+2. H0 = : m1 = m2 (m1 - m2 = 0)
+   Ha = : m1 =/ m2 ( two tailed test) 
+
+3. seo = sd / √n
+
+   t = x̂d - 0 / seo 
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
